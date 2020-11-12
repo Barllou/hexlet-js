@@ -1,5 +1,4 @@
 {
-
   "name": "myprogect",
   "version": "1.0.0",
   "description": "Мой первый проект на Хекслете",
@@ -16,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Barllou/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Barllou/hexlet-js#readme"
+  "homepage": "https://github.com/Barllou/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "node": "^15.2.0"
+  }
 }
